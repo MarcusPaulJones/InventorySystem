@@ -1,0 +1,142 @@
+[ 
+  { 
+    "id": 0,
+    "title": "C1 Rail Rifle",
+    "value": 250,
+    "stats": {
+      "power": 10,
+      "defence": 1,
+      "vitality": 10
+    },
+    "description": "Ubiquitous handgun, found all over the Orion Alliance",
+    "stackable": false,
+    "rarity": 2,
+    "sprite": "railgun_sprite"
+  },
+  { 
+    "id": 1,
+    "title": "I14 Plasma Autogun",
+    "value": 50000,
+    "stats": {
+      "power": 50,
+      "defence": 1,
+      "vitality": 100
+    },
+    "description": "Rare Automatic weapon, found on higher tech worlds of the Orion Alliance ",
+    "stackable": false,
+    "rarity": 6,
+    "sprite": "plasmagun_sprite"
+  },
+  { 
+    "id": 2,
+    "title": "X Dark Matter Cannon",
+    "value": 100000000,
+    "stats": {
+      "power": 50,
+      "defence": 1,
+      "vitality": 100
+    },
+    "description": "Experimental Heavy Weapon, found only on 17 Different Worlds across the Orion Arm",
+    "stackable": false,
+    "rarity": 10,
+    "sprite": ""
+  },
+  { 
+    "id": 3,
+    "title": "Railgun Ammo",
+    "value": 1,
+    "stats": {
+      "power": 1,
+      "defence": 1,
+      "vitality": 1
+    },
+    "description": "Ammo for all Rail Weapons",
+    "stackable": true,
+    "rarity": 0,
+    "sprite": ""
+  },
+  {   
+    "id": 4,
+    "title": "Plasma Batteries",
+    "value": 100,
+    "stats": {
+      "power": 1,
+      "defence": 1,
+      "vitality": 1
+    },
+    "description": "Ammo for all Plasma & Fusion Weapons",
+    "stackable": true,
+    "rarity": 4,
+    "sprite": ""
+  },
+  {   
+    "id": 5,
+    "title": "Darkmatter Container",
+    "value": 100000,
+    "stats": {
+      "power": 1,
+      "defence": 1,
+      "vitality": 1
+    },
+    "description": "Ammo for all Darkmatter Weapons",
+    "stackable": true,
+    "rarity": 9,
+    "sprite": ""
+  },
+  {   
+    "id": 6,
+    "title": "Mono-blade",
+    "value": 250000,
+    "stats": {
+      "power": 1000,
+      "defence": 25,
+      "vitality": 1
+    },
+    "description": "Very Rare Sword",
+    "stackable": false,
+    "rarity": 7,
+    "sprite": "Mono_Sword"
+    },
+  {   
+    "id": 7,
+    "title": "7",
+    "value": 250000,
+    "stats": {
+      "power": 1000,
+      "defence": 25,
+      "vitality": 1
+    },
+    "description": "Very Rare Sword",
+    "stackable": true,
+    "rarity": 7,
+    "sprite": ""
+    },
+  {   
+    "id": 8,
+    "title": "8",
+    "value": 250000,
+    "stats": {
+      "power": 1000,
+      "defence": 25,
+      "vitality": 1
+    },
+    "description": "Very Rare Sword",
+    "stackable": true,
+    "rarity": 7,
+    "sprite": ""
+    },
+  {   
+    "id": 9,
+    "title": "9",
+    "value": 250000,
+    "stats": {
+      "power": 1000,
+      "defence": 25,
+      "vitality": 1
+    },
+    "description": "Very Rare Sword",
+    "stackable": true,
+    "rarity": 7,
+    "sprite": ""
+  }
+]
